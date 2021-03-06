@@ -1,5 +1,5 @@
 # Data-Structues-and-Algorithms
-All exercise attempts for questions in the book "Data Structures &amp; Algorithms in Python" by Michael T. Goorich et. al.
+All exercise attempts for questions in the book "Data Structures &amp; Algorithms in Python" by Michael T. Goodrich et. al.
 ## Notes
 Folders would be structured according to chapters and their various exercise:
 - Reinforcement
