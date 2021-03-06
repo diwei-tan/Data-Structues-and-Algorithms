@@ -10,5 +10,3 @@ TODO:
 - [ ] Reinforcement Exercises from Chp 1
 - [ ] Creativity Exercises from Chp 1
 - [ ] Projects in Chp 1
-
-test
